@@ -1,0 +1,26 @@
+{
+  "version": "1.7.0",
+  "build": 10,
+  "status": "released",
+  "message": "Ultima compilacion publicada para esta version",
+  "releaseTag": "v1.7.0-10",
+  "files": [
+    {
+      "path": "starpos.jar",
+      "sha256": "BDAF648FDCCA5B47A9A50FD2CF0CDD20A2E7D81D888EF5E69F336A9A0D573651"
+    },
+    {
+      "path": "trx.zip",
+      "type": "zip",
+      "target": "trx",
+      "sha256": "BB2C6CA6F9B83F69F72D6FD4B17E5CDD769F11221940B90ABE84CA90B3C91D2F"
+    },
+    {
+      "path": "lib.zip",
+      "type": "zip",
+      "target": "lib",
+      "sha256": "15620F29101F61900FC3A75E7488463629B404CA50E8B07B87B055699A4BC4C0"
+    }
+  ],
+  "changelog": "TODO"
+}
