@@ -11,7 +11,7 @@
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/interpreter-v1.0.0/interpreter-1.0.0.jar",
       "type": "jar",
       "target": "lib/interpreter-1.0.0.jar",
-      "sha256": "738f29fc5f3c65cb8db27ac56f9f81c4ed53c1a9766a3fe51cd3d42c9d18ccb8"
+      "sha256": "fe4b089bfc9f4d97356545af1f82b31a0e4e960dd526649d72f9c61436283c7e"
     }
   ]
 }
