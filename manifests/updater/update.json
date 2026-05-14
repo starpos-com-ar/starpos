@@ -11,7 +11,7 @@
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/updater-v1.0.0/updater-1.0.0.jar",
       "type": "jar",
       "target": "lib/updater-1.0.0.jar",
-      "sha256": "64E359CF73E3AF73EA5EA8A8AF8481EE923301702B7775F9B5A229C01AA3891C"
+      "sha256": "ECD3BBB9AF998FB45406914B94410709036B9E341062AADC33AE0F1A0CE73EDE"
     }
   ]
 }
