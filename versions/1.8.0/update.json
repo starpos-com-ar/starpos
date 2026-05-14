@@ -1,9 +1,10 @@
 {
   "version": "1.8.0",
+  "stage": "alpha",
   "build": 0,
   "status": "pre-release",
-  "message": "Compilacion 0 (pre-release)",
-  "releaseTag": null,
+  "message": "Alpha 000",
+  "releaseTag": "alpha-000",
   "files": [],
   "changelog": "En desarrollo"
 }
