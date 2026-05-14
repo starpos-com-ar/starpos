@@ -5,6 +5,12 @@
   "status": "pre-release",
   "message": "Alpha 000",
   "releaseTag": "1.8.0-alpha.000",
-  "files": [],
+  "files": [
+    {
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-alpha.000/starpos.jar",
+      "target": "starpos.jar",
+      "sha256": "3774EF5AB9CBCDCA5F921F2CC779DB0CF04FBD6D8D88EC7F0ED5A76F70178A08"
+    }
+  ],
   "changelog": "En desarrollo"
 }
