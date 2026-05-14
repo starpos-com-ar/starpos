@@ -1,0 +1,17 @@
+{
+  "artifact": "google-mail-sender",
+  "version": "1.0.0",
+  "status": "release",
+  "message": "Versión disponible.",
+  "releaseTag": "google-mail-sender-v1.0.0",
+  "changelog": "",
+  "minStarposVersion": "1.8.0",
+  "files": [
+    {
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/google-mail-sender-v1.0.0/google-mail-sender-1.0.0.jar",
+      "type": "jar",
+      "target": "lib/google-mail-sender-1.0.0.jar",
+      "sha256": "932E5013861A78FBD11331ABC244B33B46F4DE07E135B02E1888EC128A872888"
+    }
+  ]
+}
