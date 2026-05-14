@@ -4,7 +4,7 @@
   "build": 0,
   "status": "pre-release",
   "message": "Alpha 000",
-  "releaseTag": "alpha-000",
+  "releaseTag": "1.8.0-alpha.000",
   "files": [],
   "changelog": "En desarrollo"
 }
