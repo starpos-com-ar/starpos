@@ -1,0 +1,17 @@
+{
+  "artifact": "whatsapp-sender",
+  "version": "1.0.0",
+  "status": "release",
+  "message": "Versión disponible.",
+  "releaseTag": "whatsapp-sender-v1.0.0",
+  "changelog": "",
+  "minStarposVersion": "1.8.0",
+  "files": [
+    {
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/whatsapp-sender-v1.0.0/whatsapp-sender-1.0.0.jar",
+      "type": "jar",
+      "target": "lib/whatsapp-sender-1.0.0.jar",
+      "sha256": "084AC230DA081D843A76A856A37F7006708BB09A1F3C5E6F157C5BFB24A4C205"
+    }
+  ]
+}
