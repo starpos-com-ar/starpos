@@ -1,0 +1,17 @@
+{
+  "artifact": "updater",
+  "version": "1.0.0",
+  "status": "release",
+  "message": "Versión disponible.",
+  "releaseTag": "updater-v1.0.0",
+  "changelog": "",
+  "minStarposVersion": "1.8.0",
+  "files": [
+    {
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/updater-v1.0.0/updater-1.0.0.jar",
+      "type": "jar",
+      "target": "lib/updater-1.0.0.jar",
+      "sha256": "64E359CF73E3AF73EA5EA8A8AF8481EE923301702B7775F9B5A229C01AA3891C"
+    }
+  ]
+}
