@@ -11,7 +11,7 @@
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/google-mail-sender-v1.0.0/google-mail-sender-1.0.0.jar",
       "type": "jar",
       "target": "lib/google-mail-sender-1.0.0.jar",
-      "sha256": "21381A21FF4FA6B13F1656EEA86D43AC9C0316A75BD9A8FFA0C406374000349E"
+      "sha256": "52ad96f23736326f2f014be6afbb43b9c80858ca93949ae0f2da956d95ba3654"
     }
   ]
 }
