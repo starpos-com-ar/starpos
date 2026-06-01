@@ -1,17 +1,17 @@
 {
   "artifact": "interpreter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "status": "release",
   "message": "Nueva versión de interpreter disponible.",
-  "releaseTag": "interpreter-v1.0.1",
-  "changelog": "",
+  "releaseTag": "interpreter-v1.0.2",
+  "changelog": "Mejoras en IARA: selección y sugerencia de informes, manejo de fechas y correcciones varias.",
   "minStarposVersion": "1.8.0",
   "files": [
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/interpreter-v1.0.1/interpreter-1.0.1.jar",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/interpreter-v1.0.2/interpreter-1.0.2.jar",
       "type": "jar",
-      "target": "lib/interpreter-1.0.1.jar",
-      "sha256": "cce9a122d73f87c054115920e70d4b9baad5947ad8d97fdc7e20dc1b85673938"
+      "target": "lib/interpreter-1.0.2.jar",
+      "sha256": "6302ca01187b78621e97cfa268fe9e842d2345269d85aa7b45d4e4a14eb956cf"
     }
   ]
 }
