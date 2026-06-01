@@ -3,15 +3,15 @@
   "version": "1.0.2",
   "status": "release",
   "message": "Nueva versión de interpreter disponible.",
+  "changelog": "IARA: selección y sugerencia de informes, fechas (día de la semana), fallback configurable y trace técnico de debug.",
   "releaseTag": "interpreter-v1.0.2",
-  "changelog": "Mejoras en IARA: selección y sugerencia de informes, fechas (día de la semana) y correcciones varias.",
   "minStarposVersion": "1.8.0",
   "files": [
     {
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/interpreter-v1.0.2/interpreter-1.0.2.jar",
       "type": "jar",
       "target": "lib/interpreter-1.0.2.jar",
-      "sha256": "38a37dc1b3f81ac089d07a31fb6f9d18577c7186ede125885d75c5e9f203c9fe"
+      "sha256": "8bc5395f219b33502c5642d5cc1474e3018a411be5ca0ef664a53bfbf734d501"
     }
   ]
 }
