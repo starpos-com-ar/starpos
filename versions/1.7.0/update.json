@@ -1,26 +1,27 @@
 {
-    "version": "1.7.0",
-    "build": 13,
-    "status": "released",
-    "message": "Ultima compilacion publicada para esta version",
-    "releaseTag": "v1.7.0-13",
-    "files": [
-      {
-        "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.7.0-13/starpos.jar",
-        "sha256": "2F6497AF37702023755E7EA0DDBFF7C699E7FDDE35D3215EDC19241784D8A140"
-      },
-      {
-        "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.7.0-13/trx.zip",
-        "type": "zip",
-        "target": "trx",
-        "sha256": "BB2C6CA6F9B83F69F72D6FD4B17E5CDD769F11221940B90ABE84CA90B3C91D2F"
-      },
-      {
-        "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.7.0-13/lib.zip",
-        "type": "zip",
-        "target": "lib",
-        "sha256": "15620F29101F61900FC3A75E7488463629B404CA50E8B07B87B055699A4BC4C0"
-      }
-    ],
-    "changelog": "#18759 - Hasar 250F y manipulacion de impuestos internos\n#18772 - Error al cargar un pago a proveedores\n#18746 - Duplicacion de lineas de planes de cuotas en el ticket"
+  "version": "1.7.0",
+  "build": 14,
+  "status": "released",
+  "message": "Ultima compilacion publicada para esta version",
+  "releaseTag": "v1.7.0-14",
+  "files": [
+    {
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.7.0-14/starpos.jar",
+      "target": "starpos.jar",
+      "sha256": "ca35df5de1b8e4bdbb4a1e23a791b6c358fc807145505d455c195aa7706bc0c6"
+    },
+    {
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.7.0-14/trx.zip",
+      "type": "zip",
+      "target": "trx",
+      "sha256": "885c8a317757c2933a03a725e83c992cf34caf3903803b24e4c95c0f4bad0346"
+    },
+    {
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.7.0-14/lib.zip",
+      "type": "zip",
+      "target": "lib",
+      "sha256": "6ffb8fb333f88548cc8769ad7eafc856f18305f2ff6ba2d0a451ecd859f76799"
+    }
+  ],
+  "changelog": "- **Ajustes en libreria:** AFIP\n- **#18935** - Error con cache de productos en venta al cambiar codigo\n- **#18933** - Error al crear nueva Unidad de medida\n- **#18929** - Error en pagos parciales con medio de cobro electronico\n- **#18928** - Error al remover pago electronico en Declaracion de caja\n- **#18923** - Eliminar tab de pagos electronicos en Pago a proveedores\n- **#18906** - Visualizacion de functionLogs en el cierre Z\n- **#18884** - Consolidacion de articulos en cierre de comprobante\n- **#18895** - Error al eliminar un menu que contiene hijos\n- **#18763** - Ajuste diferencia redondeo percepciones\n- **#18778** - Error con el cierre automatico de Facturacion Electronica\n- **#18711** - Error por credential json corrupto al cerrar un comprobante mediante Facturacion Electronica\n- **#18824** - Error general al hacer un pago a cuenta corriente y a proveedores.\n- **#18325** - Demora en reporte de cierre de caja\n- **#18845** - La descripcion del nombre cortado en Ticket\n- **#18525** - Ejecucion de queries Dashboard al inicio de forma opcional\n- **#18786** - Acceso a panel de ventas en un BackOffice"
 }
