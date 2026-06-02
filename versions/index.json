@@ -2,15 +2,16 @@
   "versions": [
     {
       "version": "1.7.0",
+      "build": 14,
       "status": "released",
-      "releaseTag": "v1.7.0-10"
+      "releaseTag": "v1.7.0-14"
     },
     {
       "version": "1.8.0",
       "stage": "alpha",
-      "build": 0,
+      "build": 2,
       "status": "pre-release",
-      "releaseTag": "1.8.0-alpha.000"
+      "releaseTag": "v1.8.0-alpha.002"
     }
   ]
 }
