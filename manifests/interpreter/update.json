@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "status": "release",
   "message": "Nueva versión de interpreter disponible.",
-  "changelog": "IARA: selección y sugerencia de informes, fechas (día de la semana), fallback configurable y trace técnico de debug.",
+  "changelog": "IARA: menor consumo de tokens (menos llamadas y prompts más cortos), contexto del panel más liviano y bajo demanda, y consumo/límites por empresa.",
   "releaseTag": "interpreter-v1.0.2",
   "minStarposVersion": "1.8.0",
   "files": [
@@ -11,7 +11,7 @@
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/interpreter-v1.0.2/interpreter-1.0.2.jar",
       "type": "jar",
       "target": "lib/interpreter-1.0.2.jar",
-      "sha256": "8bc5395f219b33502c5642d5cc1474e3018a411be5ca0ef664a53bfbf734d501"
+      "sha256": "99e6e34a66eb9854bebdc60d4efccfd418236ac39b52f1efce73818a02b25bd1"
     }
   ]
 }
