@@ -1,16 +1,16 @@
 {
   "version": "1.8.0",
   "stage": "alpha",
-  "build": 0,
+  "build": 2,
   "status": "pre-release",
-  "message": "Alpha 000",
-  "releaseTag": "1.8.0-alpha.000",
+  "message": "Alpha 002",
+  "releaseTag": "v1.8.0-alpha.002",
   "files": [
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-alpha.000/starpos.jar",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-alpha.002/starpos.jar",
       "target": "starpos.jar",
-      "sha256": "3774EF5AB9CBCDCA5F921F2CC779DB0CF04FBD6D8D88EC7F0ED5A76F70178A08"
+      "sha256": "c3b16ece1d897b6972d312cd65c670a59fc3243babbe4a024b183590b783f5b5"
     }
   ],
-  "changelog": "En desarrollo"
+  "changelog": "Tercera compilacion alpha de StarPOS 1.8.0"
 }
