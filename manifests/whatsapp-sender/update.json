@@ -11,7 +11,7 @@
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/whatsapp-sender-v1.0.0/whatsapp-sender-1.0.0.jar",
       "type": "jar",
       "target": "lib/whatsapp-sender-1.0.0.jar",
-      "sha256": "89f380e5fb9caf3201cb4a3920bc11a3b18e428a6173c0c90ea3f79e1963b61f"
+      "sha256": "0a4be804f5df90123a7f5c4590b05d1e371262feab461632620f31e7bfbaef0e"
     }
   ]
 }
