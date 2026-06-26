@@ -2,7 +2,7 @@
   "artifact": "electronic-invoice",
   "version": "1.0.0",
   "status": "release",
-  "message": "Versión disponible.",
+  "message": "Nueva version de electronic-invoice disponible.",
   "releaseTag": "electronic-invoice-v1.0.0",
   "changelog": "",
   "minStarposVersion": "1.8.0",
@@ -11,7 +11,8 @@
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/electronic-invoice-v1.0.0/electronic-invoice-1.0.0.jar",
       "type": "jar",
       "target": "lib/electronic-invoice-1.0.0.jar",
-      "sha256": "a78155a0a124787636c1fc70e0f4405ffbcb880901007eea2f1ff287a4c7262b"
+      "sha256": "47d48482b5371c308bff495f693b6dd83b791a2aee472863b7011b4710ce0f36"
     }
   ]
 }
+
