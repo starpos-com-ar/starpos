@@ -1,22 +1,22 @@
 {
   "version": "1.8.0",
   "stage": "alpha",
-  "build": 6,
+  "build": 7,
   "status": "pre-release",
-  "message": "Alpha 006",
-  "releaseTag": "v1.8.0-alpha.006",
+  "message": "Alpha 007",
+  "releaseTag": "v1.8.0-alpha.007",
   "files": [
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-alpha.006/starpos.jar",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-alpha.007/starpos.jar",
       "target": "starpos.jar",
-      "sha256": "1d89a5cadb5e7c78d601941dc770d848f95528b64227a5e8d92575eb920b13e9"
+      "sha256": "89be1e9f8d5a395e74f38cdfadd0957c51a32b8bc7a85e2b754f530612f3ad70"
     },
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-alpha.006/lib.zip",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-alpha.007/lib.zip",
       "type": "zip",
       "target": "lib",
-      "sha256": "99b6be6af05fba754b09879d375997bcd1993901d0200ac251faf19a3bb7c9e7"
+      "sha256": "ab87e19974d85f12a77ecb45953a4dbbe66ad2c1262bcb839be2e5232977a5b2"
     }
   ],
-  "changelog": "Septima compilacion alpha de StarPOS 1.8.0"
+  "changelog": "Octava compilacion alpha de StarPOS 1.8.0"
 }
