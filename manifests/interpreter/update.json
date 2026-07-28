@@ -1,17 +1,17 @@
 {
   "artifact": "interpreter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "status": "release",
   "message": "Nueva versión de interpreter disponible.",
-  "releaseTag": "interpreter-v1.0.3",
+  "releaseTag": "interpreter-v1.0.4",
   "changelog": "",
   "minStarposVersion": "1.8.0",
   "files": [
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/interpreter-v1.0.3/interpreter-1.0.3.jar",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/interpreter-v1.0.4/interpreter-1.0.4.jar",
       "type": "jar",
-      "target": "lib/interpreter-1.0.3.jar",
-      "sha256": "0c69c14b57230c0648d350918cdb3a36ac31a4940012645acef5f8f205e1001c"
+      "target": "lib/interpreter-1.0.4.jar",
+      "sha256": "e4bb1c294e9ece749b7d2cc8a6ea28eff7534bce7a13b87b5f67fb7929a4f284"
     }
   ]
 }
