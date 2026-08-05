@@ -8,10 +8,10 @@
     },
     {
       "version": "1.8.0",
-      "stage": "alpha",
-      "build": 7,
+      "stage": "beta",
+      "build": 1,
       "status": "pre-release",
-      "releaseTag": "v1.8.0-alpha.007"
+      "releaseTag": "v1.8.0-beta.001"
     }
   ]
 }
