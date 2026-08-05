@@ -21,7 +21,7 @@
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.001/themes.zip",
       "type": "zip",
       "target": "themes",
-      "sha256": "0133acfde2974268a2dee5ddffbbd272c3368996c5814390d4103e5bf9827ab4"
+      "sha256": "c28f09ff718ac4a15ac7ee8c6e31108f39a9882aecc071c669747b5a99d12430"
     }
   ],
   "changelog": "Primera compilacion beta de StarPOS 1.8.0"
