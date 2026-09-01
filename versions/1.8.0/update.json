@@ -21,7 +21,7 @@
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.004/trx.zip",
       "type": "zip",
       "target": "trx",
-      "sha256": "fcfb4a6cfec612d1a82f8fd8af08240601db44c0157d7f88261fe02eebec96ef"
+      "sha256": "51207985ae05c3ddf98f2c881a6bbe11e13e8d79c31a24654e6fc6c580c2d3db"
     },
     {
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.004/reports.zip",
