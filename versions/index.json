@@ -9,9 +9,9 @@
     {
       "version": "1.8.0",
       "stage": "beta",
-      "build": 4,
+      "build": 5,
       "status": "pre-release",
-      "releaseTag": "v1.8.0-beta.004"
+      "releaseTag": "v1.8.0-beta.005"
     }
   ]
 }
