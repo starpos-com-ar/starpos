@@ -15,7 +15,7 @@
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.005/lib.zip",
       "type": "zip",
       "target": "lib",
-      "sha256": "93273ae337cf6811a740bd56b77ccea9494ca6973c3f4376cd5d2646b7536645"
+      "sha256": "29b077a8b30677a95b4e3c947642400ce8b9682f5662e94528fc5c1ffbd5a6b0"
     },
     {
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.005/trx.zip",
