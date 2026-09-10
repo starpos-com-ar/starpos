@@ -11,7 +11,7 @@
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/electronic-payment-v5.1.0/electronic-payment-5.1.0.jar",
       "type": "jar",
       "target": "lib/electronic-payment-5.1.0.jar",
-      "sha256": "8d9ab95740315f4869c7b68959bd1f01abe59e221dcee885e63698021f05a0dc"
+      "sha256": "c01c76e025a34ced44f1239a6165eed00d9710c1e86a9ba1c5cd9049d9e7c1d3"
     }
   ]
 }
