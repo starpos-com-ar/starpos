@@ -1,12 +1,6 @@
 {
   "versions": [
     {
-      "version": "1.7.0",
-      "build": 14,
-      "status": "released",
-      "releaseTag": "v1.7.0-14"
-    },
-    {
       "version": "1.8.0",
       "stage": "beta",
       "build": 5,
