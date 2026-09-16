@@ -1,17 +1,17 @@
 {
   "artifact": "electronic-payment",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "status": "release",
   "message": "Nueva version de electronic-payment disponible.",
-  "releaseTag": "electronic-payment-v5.1.0",
+  "releaseTag": "electronic-payment-v5.1.1",
   "changelog": "",
   "minStarposVersion": "1.8.0",
   "files": [
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/electronic-payment-v5.1.0/electronic-payment-5.1.0.jar",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/electronic-payment-v5.1.1/electronic-payment-5.1.1.jar",
       "type": "jar",
-      "target": "lib/electronic-payment-5.1.0.jar",
-      "sha256": "c01c76e025a34ced44f1239a6165eed00d9710c1e86a9ba1c5cd9049d9e7c1d3"
+      "target": "lib/electronic-payment-5.1.1.jar",
+      "sha256": "66e401630e0bfbe487c40eebfe3d1fb5c6ad4c0c81512f439dd367e00380c00f"
     }
   ]
 }
