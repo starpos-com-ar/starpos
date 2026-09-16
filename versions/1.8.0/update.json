@@ -1,40 +1,40 @@
 {
   "version": "1.8.0",
   "stage": "beta",
-  "build": 5,
+  "build": 6,
   "status": "pre-release",
-  "message": "Beta 005",
-  "releaseTag": "v1.8.0-beta.005",
+  "message": "Beta 006",
+  "releaseTag": "v1.8.0-beta.006",
   "files": [
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.005/starpos.jar",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.006/starpos.jar",
       "target": "starpos.jar",
-      "sha256": "3c41419c37dcb6951b0f985b76371e74871e53c1c1611890a6332127a637a131"
+      "sha256": "525562f84fd19380571918ffeb4fb6212cebe8ba65e84efc6fc26dff0010095f"
     },
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.005/lib.zip",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.006/lib.zip",
       "type": "zip",
       "target": "lib",
-      "sha256": "29b077a8b30677a95b4e3c947642400ce8b9682f5662e94528fc5c1ffbd5a6b0"
+      "sha256": "a614b03341f9c432aa8c20371aad3e2c9e6ae2a370902785602477ba64f0a9c8"
     },
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.005/trx.zip",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.006/trx.zip",
       "type": "zip",
       "target": "trx",
-      "sha256": "5db5a0b614db86d74ac87dbf8b8b67f5bd7bb0e716a0380ce47fb0438f267292"
+      "sha256": "24189324047b3e11dff038247df86bd585554da94e8aac3e757d0d94521ac9f6"
     },
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.005/reports.zip",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.006/reports.zip",
       "type": "zip",
       "target": "reports",
-      "sha256": "035e9b62fece283b7596565c5968592fd65ed59013b2a88fd1d9b70afd48e456"
+      "sha256": "ec44ff4f1834f7e557cf805c9d278a59fe19e0410b6f1e99ebc1779f16cce543"
     },
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.005/themes.zip",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-beta.006/themes.zip",
       "type": "zip",
       "target": "themes",
-      "sha256": "ec2b9ca607e4aae1c45a7087774a8e32fed67f9cfe7c710ba6e542379f2457b4"
+      "sha256": "646e6fb934c2f5c08be4b3c5574d3130afd52b6ec886bc084596dc52aae64432"
     }
   ],
-  "changelog": "Quinta compilacion beta de StarPOS 1.8.0"
+  "changelog": "Sexta compilacion beta de StarPOS 1.8.0"
 }
