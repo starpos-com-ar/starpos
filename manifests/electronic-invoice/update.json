@@ -11,7 +11,7 @@
       "path": "https://github.com/starpos-com-ar/starpos/releases/download/electronic-invoice-v1.0.0/electronic-invoice-1.0.0.jar",
       "type": "jar",
       "target": "lib/electronic-invoice-1.0.0.jar",
-      "sha256": "47d48482b5371c308bff495f693b6dd83b791a2aee472863b7011b4710ce0f36"
+      "sha256": "d15f5f12f5ad5afd086dfe0df2b559801fb42fa9a8065a8f68ab879c23919add"
     }
   ]
 }
