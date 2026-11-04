@@ -3,9 +3,9 @@
     {
       "version": "1.8.0",
       "stage": "final",
-      "build": 2,
+      "build": 3,
       "status": "released",
-      "releaseTag": "v1.8.0-2"
+      "releaseTag": "v1.8.0-3"
     }
   ]
 }
