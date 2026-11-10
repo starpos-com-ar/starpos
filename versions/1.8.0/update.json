@@ -1,39 +1,39 @@
 {
   "version": "1.8.0",
   "stage": "final",
-  "build": 3,
+  "build": 4,
   "status": "released",
-  "message": "Compilacion 003",
-  "releaseTag": "v1.8.0-3",
+  "message": "Compilacion 004",
+  "releaseTag": "v1.8.0-4",
   "files": [
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-3/starpos.jar",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-4/starpos.jar",
       "target": "starpos.jar",
-      "sha256": "f42712f68fd789dc85b8d3811686635163a0b2e5394716823cd6bbec1ddc4b83"
+      "sha256": "716f74395b2a9ac259ea8d3ade80911cc0d8799838fe320a906c4e4b6e2c9f85"
     },
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-3/lib.zip",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-4/lib.zip",
       "type": "zip",
       "target": "lib",
-      "sha256": "b64f81fd2100b8ea28480b09fe5e2ba06359de5dd8687e3bc50b70e37df03323"
+      "sha256": "f02307afe88f42393e068f65bc14789b8fdd93a7504a21cae4703a1141af4136"
     },
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-3/trx.zip",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-4/trx.zip",
       "type": "zip",
       "target": "trx",
-      "sha256": "0ad217e2b26666bc01495e08110281512e2d69caa950bdde8d00238d4894126b"
+      "sha256": "113d8f277a24ebbfc9cc86219798ac350785481f42507391df20681013b647c4"
     },
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-3/reports.zip",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-4/reports.zip",
       "type": "zip",
       "target": "reports",
-      "sha256": "f1676e4aeff740d51bd6b22e374b52a4a11265fe8be9c7289570846e900467c8"
+      "sha256": "7dffec73cc0a430cd4fa060f3d5a3bf412bbb9a9c73a65df02d0b8c48e113502"
     },
     {
-      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-3/themes.zip",
+      "path": "https://github.com/starpos-com-ar/starpos/releases/download/v1.8.0-4/themes.zip",
       "type": "zip",
       "target": "themes",
-      "sha256": "9c4750dcdf16b0da42235004d4f194fdd78a12c52a3a10402b9c396f995c4c67"
+      "sha256": "fb1c53b63972fe8785aaff4e8bb1a3b1a2452fa60f6f02178d6cb591f0514478"
     }
   ],
   "remove": [
@@ -47,5 +47,5 @@
     "lib/updater-1.0.0.jar",
     "lib/electronic-invoice-1.0.0.jar"
   ],
-  "changelog": "Compilacion 003 de StarPOS 1.8.0"
+  "changelog": "Compilacion 004 de StarPOS 1.8.0"
 }
